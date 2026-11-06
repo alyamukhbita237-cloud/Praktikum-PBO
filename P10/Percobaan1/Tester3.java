@@ -9,5 +9,4 @@ public class Tester3 {
         Payable p[] = {pEmp, eBill};
         Employee e2[] = {pEmp, iEmp};
     }
-    
 }
